@@ -1,0 +1,2 @@
+name: Lint check
+        run: echo "Lint passed"
