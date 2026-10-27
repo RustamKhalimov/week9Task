@@ -16,3 +16,6 @@ jobs:
 
       - name: Build project
         run: echo "Build complete"
+
+      - name: Check README
+        run: grep "project" README.md
